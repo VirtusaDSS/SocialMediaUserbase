@@ -1,3 +1,18 @@
+Social-Media-Users-Database-Management-System 
+
+In This DBMS Project I covered Social Media Users Details Like... 
+
+· User's Friends details 
+
+· List of users who liked any Posts, or made any comments and user who sharing post 
+
+· All pages 
+
+· Pages joined by the user 
+
+· Also, who has Liked Comments of any posts 
+
+
 This SQL script creates a database schema for a social media platform, with tables for users, posts, likes, comments, shares, friends, and pages. It also inserts sample data into the tables for testing purposes. 
 
   
